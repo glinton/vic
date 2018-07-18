@@ -20,7 +20,7 @@ import (
 	"net/url"
 	"time"
 
-	log "github.com/Sirupsen/logrus"
+	log "github.com/sirupsen/logrus"
 
 	urlfetcher "github.com/vmware/vic/pkg/fetcher"
 )

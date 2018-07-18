@@ -17,7 +17,7 @@ package retry
 import (
 	"time"
 
-	log "github.com/Sirupsen/logrus"
+	log "github.com/sirupsen/logrus"
 	"github.com/cenkalti/backoff"
 
 	"github.com/vmware/vic/pkg/trace"
